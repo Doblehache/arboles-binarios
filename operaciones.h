@@ -97,25 +97,3 @@ typename Abin<T>::nodo buscarNodoRec(const T& e, typename Abin<T>::nodo n, const
         buscarNodoRec(e, A.hijoDrchoB(n), A);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//

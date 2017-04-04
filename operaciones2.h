@@ -81,15 +81,3 @@ double calculoRec(typename Abin<T>::nodo n, const Abin<T>& A) {
     }
     return res;
 }
-
-
-
-
-
-
-
-
-
-
-
-//
